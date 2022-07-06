@@ -55,10 +55,24 @@ h1 {
     margin-right: 5%;
     padding-left: 10px;
     border-radius: 5px;
+
 }
 
 .experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+
+}
+
+#fsdeveloper {
+    border-left: 10px solid tomato;
+}
+
+#mlengineer {
+    border-left: 10px solid blue;
+}
+
+footer {
+    text-align: center;
 }
